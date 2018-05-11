@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.javawebtpoint;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
