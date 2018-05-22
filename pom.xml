@@ -16,6 +16,15 @@
     </dependency>
   </dependencies>
  <distributionManagement>
+   <repository>
+        <id>123456</id>
+        <name>kiruba</name>
+        <url>http://34.229.201.90:8081/nexus/content/repositories/123456/</url>
+    </repository>
+   <snapshotRepository>
+      <id>12345</id>
+      <url>http://34.229.201.90:8081/nexus/content/repositories/12345//</url>
+    </snapshotRepository>
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>corp1</id>
