@@ -15,5 +15,5 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/CubeGenerator-1.0-SNAPSHOT.jar
+    - target/Cubenewjava-1.0-SNAPSHOT.jar
 discard-paths: yes
